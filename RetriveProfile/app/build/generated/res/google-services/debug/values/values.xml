@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">806995345550-rre2b5k2b0p6a6hiithebbc4egq69auh.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://retriveprofile.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">806995345550</string>
+    <string name="google_api_key" translatable="false">AIzaSyAJKIhN1JRdQBnGTeOCrwYfCP005806T0s</string>
+    <string name="google_app_id" translatable="false">1:806995345550:android:44293861e37aa4e6e549df</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAJKIhN1JRdQBnGTeOCrwYfCP005806T0s</string>
+    <string name="google_storage_bucket" translatable="false">retriveprofile.appspot.com</string>
+    <string name="project_id" translatable="false">retriveprofile</string>
+</resources>

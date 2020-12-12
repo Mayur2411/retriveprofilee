@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "806995345550",
+    "firebase_url": "https://retriveprofile.firebaseio.com",
+    "project_id": "retriveprofile",
+    "storage_bucket": "retriveprofile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806995345550:android:44293861e37aa4e6e549df",
+        "android_client_info": {
+          "package_name": "com.example.retriveprofile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806995345550-rre2b5k2b0p6a6hiithebbc4egq69auh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJKIhN1JRdQBnGTeOCrwYfCP005806T0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806995345550-rre2b5k2b0p6a6hiithebbc4egq69auh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
